@@ -1,6 +1,6 @@
-# Laboratório de Programação - ESPM
+# Estrutura de Dados - ESPM
 
-Este é o repositório de um exercício em Java relacionada à matéria de Laboratório de Programação da ESPM. Aqui você encontrará todos os arquivos necessários para o desenvolvimento da atividade.
+Este é o repositório de um exercício em Java relacionada à matéria de Estrutura de Dados da ESPM. Aqui você encontrará todos os arquivos necessários para o desenvolvimento da atividade.
 
 ## Arquivo externo recomendado
 
